@@ -23,9 +23,9 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 📌 Finance Report :
 Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by Fiscal Year & Months : [P&L Statement by Months.pdf](https://github.com/user-attachments/files/23921234/P.L.Statement.by.Months.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by Markets : 
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
