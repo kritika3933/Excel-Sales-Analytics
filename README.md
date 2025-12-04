@@ -1,0 +1,69 @@
+📌 Atliq Hardware Business Intelligence Report
+
+AtliQ Hardware, a global supplier of products such as PCs, peripherals, and network devices, assigned me the responsibility of generating sales and financial reports to assess the company's performance in the years 2019, 2020, and 2021. The following are the key findings:
+tliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
+
+These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
+
+
+
+ 📌 P&L Report - Excel-Project
+Project objective:
+
+1. Create a customer performance report
+
+2. Conduct a comprehensive comparison between market performance and sales targets
+
+Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+
+Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+
+Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+📌 Finance Report :
+Project objective:
+
+1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+
+2. Create Profit and Loss (P&L) reports by Markets
+
+Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+
+⭐ Overall Insights
+• Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
+• Top 10 Products: Continued strong performance of key products from 2020 to 2021.
+• Market Performance vs. Target: Insights into market performance relative to sales goals.
+• New Products in 2021: Successful introduction of new products with strong sales.
+• Top 5 Countries in 2021: Identification of leading markets with robust sales figures.
+• Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments.
+• Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
+• Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
+• Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
+• Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+
+
+🧠 Skills Demonstrated
+
+• Data Cleaning & Validation
+
+• ETL Process Optimization
+
+•Analytical Storytelling
+
+•Business Intelligence Reporting
+
+
+
+
+
+
+
+
+
