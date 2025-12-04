@@ -9,9 +9,9 @@ These intermediaries play a crucial role in connecting Atliq's products with end
  📌 P&L Report - Excel-Project
 Project objective:
 
-1. Create a customer performance report [Customer Performance Report using ETL.pdf](https://github.com/user-attachments/files/23920889/Customer.Performance.Report.using.ETL.pdf)
+1. Create a customer performance report :  [Customer Performance Report using ETL.pdf](https://github.com/user-attachments/files/23920889/Customer.Performance.Report.using.ETL.pdf)
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+2. Conduct a comprehensive comparison between market performance and sales targets :  ![Image](https://github.com/user-attachments/assets/55a1cfe2-76a1-43a8-bab6-e5dfe358750b)
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
