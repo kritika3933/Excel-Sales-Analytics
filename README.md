@@ -11,7 +11,7 @@ Project objective:
 
 1. Create a customer performance report :  [Customer Performance Report using ETL.pdf](https://github.com/user-attachments/files/23920889/Customer.Performance.Report.using.ETL.pdf)
 
-2. Conduct a comprehensive comparison between market performance and sales targets :  
+2. Conduct a comprehensive comparison between market performance and sales targets :  [Market Performance vs Target using ETL.pdf](https://github.com/user-attachments/files/23921297/Market.Performance.vs.Target.using.ETL.pdf)
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
