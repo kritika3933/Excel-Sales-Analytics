@@ -9,7 +9,7 @@ These intermediaries play a crucial role in connecting Atliq's products with end
  📌 P&L Report - Excel-Project
 Project objective:
 
-1. Create a customer performance report
+1. Create a customer performance report [Customer Performance Report using ETL.pdf](https://github.com/user-attachments/files/23920889/Customer.Performance.Report.using.ETL.pdf)
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
